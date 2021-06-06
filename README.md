@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thangasami
-- 👀 I’m interested in DataScience, Trekking and Yoga
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Machine Learning, Deep Learning, DataScience, Trekking and Yoga
+- 🌱 https://www.linkedin.com/in/thangasami-sivanu-10827571/
 - 📫 Reach Me via s.thangasami@gmail.com
 
 <!---
